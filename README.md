@@ -1,4 +1,5 @@
 # Machine-learning-fraud-detection
 
-# This repository contains the code for me Data Science MSc dissertation which is titled using Machine learning to detect fraudlent transactions. This was a project where I examined a plethora of machine learning techniques and deployed hyperparameter optimisation to compare the results of various machine learning models to identify the most effective model for fraud transaction detection for my Kaggle dataset. 
+This repository contains the code for my Data Science MSc dissertation, titled "Using machine learning to detect fraudulent transactions."
 
+In this project, I explored a plethora of machine learning techniques and utilised hyperparameter optimization to compare the performance of various models. The goal was to identify the most effective model for detecting fraudulent transactions using a Kaggle dataset.
