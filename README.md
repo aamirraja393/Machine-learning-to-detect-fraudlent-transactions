@@ -1,4 +1,4 @@
-# Machine-learning-fraud-detection
+# Using machine learning to detect fraudlent transactions
 
 This repository contains the code for my Data Science MSc dissertation, titled "Using machine learning to detect fraudulent transactions."
 
