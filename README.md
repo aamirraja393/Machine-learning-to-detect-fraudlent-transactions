@@ -2,6 +2,8 @@
 
 This repository contains the code for my Data Science MSc dissertation, titled "Using machine learning to detect fraudulent transactions."
 
+Due to the highly imbalanced nature of the PaySim dataset Synthethic Minority  Over-sampling Technique (SMOTE) was applied alongside, random under-sampling and Label encoding to ensure that the appropriate data pre-processing had taken place before intialising the models for the purposes of our study. 
+
 In this project, I explored a plethora of machine learning techniques and utilised hyperparameter optimization to compare the performance of various models. The goal was to identify the most effective model for detecting fraudulent transactions using a Kaggle dataset.
 
 ## Machine Learning Models Explored 📊: 
